@@ -50,9 +50,9 @@ if(isset($_COOKIE['username']))
 	$oldname = $_COOKIE['username']; // temp store oldname
 
 //TAKE FROM FORM
-$newname = $_POST['username']; // take input username and store in $newname
-$realname = $_POST['name'];
-$gitlink = $_POST['gitlink'];
+$newname = $mysqli->real_escape_string($_POST['username']); // take input username and store in $newname
+$realname = $mysqli->real_escape_string($_POST['name']);
+$gitlink = $mysqli->real_escape_string($_POST['gitlink']);
 
 //NAME ALREADY EXISTS VALIDATION
 if($newname != $oldname){
