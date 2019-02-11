@@ -8,7 +8,7 @@ $password = "raspberrypi";
 $dbname = "HackathonReview";
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-$hackid = $_GET['hackid'];
+$hackid = $mysqli->real_escape_string($_GET['hackid']);
 
 $sql = "SELECT * FROM Hackathons WHERE HackID = '$hackid'";
 if(mysqli_num_rows(mysqli_query($conn,$sql)) < 1)
@@ -67,8 +67,8 @@ $uid = $row['UID'];
 
 if(isset($_POST['submitbutton']))
 {
-	$pros = $_POST['pros'];
-	$cons = $_POST['cons'];
+	$pros = $mysqli->real_escape_string($_POST['pros']);
+	$cons = $mysqli->real_escape_string($_POST['cons']);
 	$sql = "SELECT * FROM Reviews WHERE UID = '$uid' AND HackID = '$hackid'";
 	if(mysqli_num_rows(mysqli_query($conn,$sql)) > 0)
 		die("You can not submit more than one review!");
