@@ -10,7 +10,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if(!isset($_GET['user']))
 	die("No user entered! (How did you get here?)");
 
-$uid = $_GET['user'];
+$uid = $mysqli->real_escape_string($_GET['user']);
 
 $sql = "SELECT * FROM User_Info WHERE UID = '$uid'";
 $row = mysqli_fetch_assoc(mysqli_query($conn,$sql));
