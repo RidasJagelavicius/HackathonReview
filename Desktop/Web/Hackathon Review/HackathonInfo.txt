@@ -145,7 +145,7 @@ https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/943/thumb/hackny_
 Mining hack
 2018-09-29
 2018-09-30
-Torreón
+TorreÃ³n
 MX
 http://mininghack.tech/
 https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/990/thumb/b5.jpg?1535648341
@@ -622,7 +622,7 @@ CA
 https://www.cruzhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/044/thumb/MLH-square.jpg?1541802642
 
- [email protected] 
+ [emailÂ protected] 
 2019-01-18
 2019-01-20
 Worcester
@@ -902,7 +902,7 @@ BC
 https://xdhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/088/thumb/xdbackground.png?1546796768
 
-[email protected] 2019
+[emailÂ protected] 2019
 2019-02-15
 2019-02-17
 Stony Brook
@@ -1111,3 +1111,146 @@ https://revolutionuc.com/
 https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/099/thumb/mlh-event-bg.jpg?1547745721
 
 SF Hacks 2019 
+2019-03-02
+2019-03-03
+San Francisco
+CA
+https://sfhacks.io/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/124/thumb/50692529_391260568085411_19852635922235392_n.jpg?1549559020
+
+WiCHacks
+2019-03-02
+2019-03-03
+Rochester
+NY
+https://wichacks.io/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/069/thumb/mlh-season-splash.png?1544557884
+
+Hacklassonde
+2019-03-09
+2019-03-10
+Toronto
+ON
+http://hacklassonde.ca/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/113/thumb/backgorund-berg_2.jpg?1549289580
+
+HackRU
+2019-03-09
+2019-03-10
+New Brunswick
+NJ
+https://hackru.org/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/123/thumb/HackRUBack.png?1549482273
+
+MenloHacks
+2019-03-09
+2019-03-10
+Atherton
+CA
+http://menlohacks.com
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/101/thumb/menlo_square.jpg?1548455249
+
+Profhacks
+2019-03-09
+2019-03-10
+Glassboro
+NJ
+https://profhacks.com/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/109/thumb/Rowan_EngineeringHall16_Square.jpg?1549052833
+
+HackPSU
+2019-03-16
+2019-03-17
+University Park
+PA
+https://hackpsu.org/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/110/thumb/psubuilding.png?1549053102
+
+TechTogether Boston  
+2019-03-22
+2019-03-24
+Boston
+MA
+https://boston.techtogether.io/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/079/thumb/Boston-Skyline.jpg?1545862035
+
+CrimsonHacks
+2019-03-23
+2019-03-24
+Tuscaloosa
+AL
+https://www.crimsonhacks.com/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/107/thumb/Screen_Shot_2018-12-20_at_11.18.42_PM.png?1548951472
+
+Hackabull
+2019-03-23
+2019-03-24
+Tampa
+FL
+https://hackabull.io/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/120/thumb/mlh-background.png?1549470472
+
+Los Altos Hacks   
+2019-03-23
+2019-03-24
+Sunnyvale
+CA
+https://www.losaltoshacks.com/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/091/thumb/41129832402_215cb2907d_o.jpg?1546898720
+
+MasseyHacks
+2019-03-23
+2019-03-24
+Windsor
+ON
+https://masseyhacks.ca/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/122/thumb/masseyback.png?1549478678
+
+HackGSU
+2019-03-29
+2019-03-31
+Atlanta
+GA
+http://hackgsu.com/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/115/thumb/alder.png?1549318804
+
+LA Hacks
+2019-03-29
+2019-03-31
+Los Angeles
+CA
+http://lahacks.com
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/103/thumb/MLH_banner-04.png?1548274620
+
+CatHacks
+2019-03-30
+2019-03-31
+Lexington
+KY
+http://cathacks.cs.uky.edu/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/118/thumb/big-cathacks-logo.png?1549469679
+
+HackWCU
+2019-03-30
+2019-03-31
+West Chester
+PA
+https://hackwcu.org/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/114/thumb/3_Banner_2019_-_Designer.jpg?1549313609
+
+LingHacks II 
+2019-03-30
+2019-03-31
+Fremont
+CA
+http://linghacks.tech/linghacks-ii
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/125/thumb/background.jpeg?1549560702
+
+PackHacks
+2019-04-13
+2019-04-14
+Raleigh
+NC
+http://www.ncsupackhacks.org/
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/116/thumb/packbg.png?1549319137
+
