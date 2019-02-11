@@ -13,7 +13,7 @@ $db = 'HackathonReview';
 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $db);
 
-$search = $_POST['userSearch'];
+$search = $mysqli->real_escape_string($_POST['userSearch']);
 if(trim($search) == '')
 	die("No search term entered!");
 
