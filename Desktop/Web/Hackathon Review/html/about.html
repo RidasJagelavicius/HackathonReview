@@ -15,10 +15,10 @@
     <title>Hackathon Review | About Page</title>
   </head>
   <body>
-    <header>
-      <div class = "container">
-        <div id = "branding">
-          <h1>About Hackathon Review</h1> <!-- displays the page title at the header of the page -->
+    <header> <!-- This will be at the top of the page and contain branding and navigation -->
+      <div class = "container"> <!-- Container classes are used to globally set margins and padding to 0 since HTML, by default, applies different spacing to elements -->
+        <div id = "branding"> <!-- This will display the website name in the header and separate it from the other content in the header for manipulation and styling-sake -->
+          <h1>Hackathon Review</h1> <!-- This will display the inserted text (our website name) in our header -->
         </div>
         <nav> <!-- This will contain the navigation elements that link to different pages of the website -->
           <ul> <!-- Used to create bulleted lists which can then be edited in CSS to remove bullets - commonly used to order navigation pages (ex. Main | About | Contact) -->
@@ -27,7 +27,49 @@
             <li><a href = "./html/profile.html">Profile</a></li>
           </ul>
         </nav>
-        <div id = "header-about">
-          <h1>Welcome to Hackathon Review, the website where YOU get to rate the hackathons that you attend.</h1>
+        <!-- PHP may be inserted below to later change the header login to display a customized message -->
+        <div id = "header-login"> <!-- This separates the "Login" and "Sign Up" portions from the rest of the header -->
+          <h1>Have an account?</h1>
+          <p><a href = "./html/login.html">Login</a></p>
+          <h1>New to the website?</h1>
+          <p><a href = "./html/signup.html">Sign up</a></p>
         </div>
-    
+        <!-- PHP may be inserted above to later change the header login to display a customized message -->
+        <form action = "./search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
+          <input type = "text" placeholder = "Search..." name = "userSearch"> <!-- Creates a searchbar with the value "Search..." if no text is entered -->
+          <button type = "button" value = "Submit"></button> <!-- Will submit the form when clicked (ie will search) -->
+        </form>
+      </div>
+    </header>
+	<section id = "about-area"> <!-- Separates the header and footer from the about -->
+		<h1>About Hackathon Review</h1>
+		<div>
+		<div id = "about-basic">Welcome to Hackathon Review, the website where you can review Hackathons you have attended 
+			and see whether a Hackathon is worth going to, as rated by your peers. This website was created as a 
+			COD Programming Club project by Ridas Jagelavicius, Sean Fisher and Matas Lauzadis. This project was 
+			created to help the club learn html, CSS, php and JS.
+		</div>
+		<div id = "about-ridas">
+		Ridas
+		</div>
+		<div id = "about-sean">
+		Sean is a wannabe programmer from the College of DuPage. As cofounder and vice-president of
+		the COD Programming Club, he worked on the php and html of the website.
+		</div>
+		<div id = "about-matas">
+		Matas
+		</div>
+	<footer> <!-- Separates the footer, where the copyright data and other (less popular) information can be navigated to -->
+      		<div class = "container">
+        	<div id = "copyright">
+          	<p>HackathonReview.Net - Ridas Jagelavicius, Sean Fisher, Matas Lauzadis - Copyright 2018 &copy;<p>
+        	</div>
+        	<div id = "obscure-links"> <!-- An area for links people don't commonly seek -->
+          	<ul>
+            	<li><a href = "./about.html">About Us</a></li>
+            	<li><a href = "./contact.html">Contact Us</li>
+          	</ul>
+      		</div>
+   	</footer>
+</body>
+</html>
