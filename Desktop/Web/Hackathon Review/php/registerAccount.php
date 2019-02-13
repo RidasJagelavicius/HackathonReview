@@ -22,9 +22,9 @@ if(isset($_POST['submitbutton']))
 {
 	if(isset($_POST['email']) && !empty($_POST['email']) && isset($_POST['password']) && !empty($_POST['password']))
 	{
-		$email = $_POST['email'];
-		$user_password = $_POST['password'];
-		$user_name = $_POST['username'];
+		$email = $mysqli->real_escape_string($_POST['email']);
+		$user_password = $mysqli->real_escape_string($_POST['password']);
+		$user_name = $mysqli->real_escape_string($_POST['username']);
 	}
 	else
 		die("One or more of your inputs are missing. Please return and re-check your entries.");
