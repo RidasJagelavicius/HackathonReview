@@ -19,7 +19,7 @@ for div in soup.find_all('div', class_='event-wrapper'):
     city = div.find('span', itemprop='addressLocality').text
     region = div.find('span', itemprop='addressRegion').text
     site = div.find('a').get('href')
-    logo = div.find('div',class_='image-wrap').find('img').get('src')
+    logo = div.find('div',class_='event-logo').find('img').get('src')
     
     #Write info to file
     file.write(hackName + "\n")
