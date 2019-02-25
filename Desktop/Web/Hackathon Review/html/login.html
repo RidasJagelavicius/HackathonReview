@@ -1,8 +1,8 @@
+<!DOCTYPE HTML>
 <!-- Log-In Page
     This page is the portal for when a user clicks "Login" on index.html
     Author: Ridas Jagelavicius -->
 
-<!DOCTYPE HTML>
 <html> <!-- All html code is to be wrapped within html tags -->
   <head> <!-- Each document has a head where metainfo such as the page title on the browser tab or search engine optimization keywords are defined -->
     <meta charset = "utf-8"> <!-- Tells browser which character encoding you'll be doing. Replaces <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> in previous HTML versions -->
@@ -10,58 +10,66 @@
     <meta name = "keywords" content = "hackathon, rate, review, sort, best hackathon, MLH, login"> <!-- The keywords that Search Engines will use to find / sort / display the website page -->
     <meta name = "author" content = "Ridas Jagelavicius, Sean Fisher, Matas Lauzadis"> <!-- Doesn't influence Search Engine results but could be useful information -->
     <meta name = "viewport" content = "width=device-width"> <!-- Sets the size of the viewport to the device (phone, tablet, laptop) width so visitors don't have to pan around the screen to see content. This is crucial to making a responsive (changes size according to device) website -->
-    <link rel = "stylesheet" href = "./css/styles"> <!-- Links our CSS code that styles that website, adding colors, spacing, etc. -->
-    <title>Hackathon Review | Login Page</title> <!-- Sets the title of the browser tab and should be relevant to site and specific page -->
+    <link rel = "stylesheet" href = "../css/styles.css"> <!-- Links our CSS code that styles that website, adding colors, spacing, etc. -->
+    <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet"> <!-- Imports a font -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> <!-- Imports icons -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  <title>Hackathon Review | Login Page</title> <!-- Sets the title of the browser tab and should be relevant to site and specific page -->
   </head>
   <body> <!-- Each document also has a body which contains all the organizational syntax of the page (meaning this is where we make words show up on a page) -->
     <header> <!-- This will be at the top of the page and contain branding and navigation -->
-      <div class = "container"> <!-- Container classes are used to globally set margins and padding to 0 since HTML, by default, applies different spacing to elements -->
+      <div class = "container"> <!-- Container classes are used to hold content -->
         <div id = "branding"> <!-- This will display the website name in the header and separate it from the other content in the header for manipulation and styling-sake -->
           <h1>Hackathon Review</h1> <!-- This will display the inserted text (our website name) in our header -->
         </div>
         <nav> <!-- This will contain the navigation elements that link to different pages of the website -->
           <ul> <!-- Used to create bulleted lists which can then be edited in CSS to remove bullets - commonly used to order navigation pages (ex. Main | About | Contact) -->
-            <li><a href = "./html/home.html">Home</a></li> <!-- "li" Serves as a "bullet point" and "a href" as a link to another page in the project directory -->
-            <li><a href = "./html/reviews.html">Reviews</a></li>
-            <li><a href = "./html/profile.html">Profile</a></li>
+            <li><a href = "../html/home.html">Home</a></li> <!-- "li" Serves as a "bullet point" and "a href" as a link to another page in the project directory -->
+            <li><a href = "../html/reviews.html">Reviews</a></li>
+            <li><a href = "../html/profile.html">Profile</a></li>
+            <li><a href = "../html/login.html">Login</a></li>
           </ul>
         </nav>
-        <!-- PHP may be inserted below to later change the header login to display a customized message -->
-        <div id = "header-login"> <!-- This separates the "Login" and "Sign Up" portions from the rest of the header -->
-          <h1>Have an account?</h1>
-          <p><a href = "./html/login.html">Login</a></p>
-          <h1>New to the website?</h1>
-          <p><a href = "./html/signup.html">Sign up</a></p>
-        </div>
-        <!-- PHP may be inserted above to later change the header login to display a customized message -->
-        <form action = "./search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
+        <form action = "../search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
           <input type = "text" placeholder = "Search..." name = "userSearch"> <!-- Creates a searchbar with the value "Search..." if no text is entered -->
-          <button type = "button" value = "Submit"></button> <!-- Will submit the form when clicked (ie will search) -->
+          <button type = "button" value = "Submit"><i class="fas fa-search"></i></button> <!-- Will submit the form when clicked (ie will search) -->
         </form>
       </div>
     </header>
-    <section id = "login-area"> <!-- Separates the login section from the header and footer -->
+    <section class = "login-area"> <!-- Separates the login section from the header and footer -->
       <div class = "container">
-        <div class = "login/signup-box"> <!-- Separates the actual box from the rest of the section so that it can be moved around and styled differently from the background -->
-          <form action = "./login.php" method = "post"> <!-- Will send the submitted data to be processed in login.php -->
-            <label>Email</label>
-            <input type = "email" name = "email" placeholder = "ex. JohnDoe@website.com"> <!-- The name attribute will be used to POST the value of the input - Otherwise creates an email input with placeholder text -->
-            <label>Password</label>
-            <input type = "password" name = "password" placeholder = "********"> <!-- Creates an input of type password which is different than text because the entered values show up as "*" -->
-            <button type = "submit" value = "Submit" >Login</button> <!-- Will submit the form when clicked -->
-          </form>
-        </div>
+        <form action = "../login.php" method = "post"> <!-- Will send the submitted data to be processed in login.php -->
+        <div class = "login-box"> <!-- Separates the actual box from the rest of the section so that it can be moved around and styled differently from the background -->
+            <div>
+              <label>Email</label>
+            </div>
+            <div>
+              <input type = "email" name = "email" placeholder = "l33tPr0gr4mm3r@website.com"> <!-- The name attribute will be used to POST the value of the input - Otherwise creates an email input with placeholder text -->
+            </div>
+            <div>
+              <label>Password</label>
+            </div>
+            <div>
+              <input type = "password" name = "password" placeholder = "********"> <!-- Creates an input of type password which is different than text because the entered values show up as "*" -->
+            </div>
+            <div>
+              <button type = "submit" value = "Submit" >Login</button> <!-- Will submit the form when clicked -->
+            </div>
+            <div>
+            <p>New to the HR? <a href = "../html/signup.html">Click here to sign up</a></p>
+            </div>
+          </div>
+        </form>
       </div>
     </section>
     <footer> <!-- Separates the footer, where the copyright data and other (less popular) information can be navigated to -->
-      <div class = "container">
         <div id = "copyright">
-          <p>HackathonReview.Net - Ridas Jagelavicius, Sean Fisher, Matas Lauzadis - Copyright 2018 &copy;<p>
+          <p>HackathonReview.Net - Ridas Jagelavicius, Sean Fisher, Matas Lauzadis - Copyright 2018 &copy;</p>
         </div>
         <div id = "obscure-links"> <!-- An area for links people don't commonly seek -->
           <ul>
-            <li><a href = "./about.html">About Us</a></li>
-            <li><a href = "./contact.html">Contact Us</li>
+            <li><a href = "../about.html">About Us</a></li>
+            <li><a href = "../contact.html">Contact Us</a></li>
           </ul>
       </div>
     </footer>
