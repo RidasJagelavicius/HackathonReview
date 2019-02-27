@@ -27,7 +27,7 @@
             <li><a href = "../html/home.html">Home</a></li> <!-- "li" Serves as a "bullet point" and "a href" as a link to another page in the project directory -->
             <li><a href = "../html/reviews.html">Reviews</a></li>
             <li><a href = "../html/profile.html">Profile</a></li>
-            <li><a href = "../html/login.html">Login</a></li>
+            <li class = "active"><a href = "../html/login.html">Login</a></li>
           </ul>
         </nav>
         <form action = "../search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
@@ -44,13 +44,17 @@
               <label>Email</label>
             </div>
             <div>
-              <input type = "email" name = "email" placeholder = "l33tPr0gr4mm3r@website.com"> <!-- The name attribute will be used to POST the value of the input - Otherwise creates an email input with placeholder text -->
+              <input type = "email" name = "email" placeholder = "JohnDoe@gmail.com"> <!-- The name attribute will be used to POST the value of the input - Otherwise creates an email input with placeholder text -->
             </div>
             <div>
               <label>Password</label>
             </div>
             <div>
               <input type = "password" name = "password" placeholder = "********"> <!-- Creates an input of type password which is different than text because the entered values show up as "*" -->
+            </div>
+            <div  class = "rememberUser">
+              <span>Remember me</span>
+              <input type = "checkbox" name = "rememberMe" checked>
             </div>
             <div>
               <button type = "submit" value = "Submit" >Login</button> <!-- Will submit the form when clicked -->
