@@ -27,7 +27,7 @@
             <li><a href = "../html/home.html">Home</a></li> <!-- "li" Serves as a "bullet point" and "a href" as a link to another page in the project directory -->
             <li><a href = "../html/reviews.html">Reviews</a></li>
             <li><a href = "../html/profile.html">Profile</a></li>
-            <li><a href = "../html/login.html">Login</a></li>
+            <li class = "active"><a href = "../html/login.html">Login</a></li>
           </ul>
         </nav>
         <form action = "../search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
@@ -44,13 +44,13 @@
               <label>Username</label>
             </div>
             <div>
-              <input type = "text" name = "userName" placeholder = "l33tPr0gr4mm3r"> <!-- Is the user's self-identifier -->
+              <input type = "text" name = "userName" placeholder = "JohnDoe34"> <!-- Is the user's self-identifier -->
             </div>
             <div>
               <label>Email</label>
             </div>
             <div>
-              <input type = "email" name = "email" placeholder = "l33tPr0gr4mm3r@website.com"> <!-- The name attribute will be used to POST the value of the input - Otherwise creates an email input with placeholder text -->
+              <input type = "email" name = "email" placeholder = "JohnDoe34@gmail.com"> <!-- The name attribute will be used to POST the value of the input - Otherwise creates an email input with placeholder text -->
             </div>
             <div>
               <label>Password</label>
