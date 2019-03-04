@@ -25,20 +25,20 @@
         <nav> <!-- This will contain the navigation elements that link to different pages of the website -->
           <ul> <!-- Used to create bulleted lists which can then be edited in CSS to remove bullets - commonly used to order navigation pages (ex. Main | About | Contact) -->
             <li><a href = "../html/home.html">Home</a></li> <!-- "li" Serves as a "bullet point" and "a href" as a link to another page in the project directory -->
-            <li><a href = "../html/reviews.html">Reviews</a></li>
+            <li><a href = "../html/reviews.html">Hackathons</a></li>
             <li><a href = "../html/profile.html">Profile</a></li>
             <li class = "active"><a href = "../html/login.html">Login</a></li>
           </ul>
         </nav>
         <form action = "../php/search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
           <input type = "text" placeholder = "Search..." name = "userSearch"> <!-- Creates a searchbar with the value "Search..." if no text is entered -->
-          <button type = "button" value = "Submit"><i class="fas fa-search"></i></button> <!-- Will submit the form when clicked (ie will search) -->
+          <button type = "submit" value = "Submit"><i class="fas fa-search"></i></button> <!-- Will submit the form when clicked (ie will search) -->
         </form>
       </div>
     </header>
     <section class = "login-area"> <!-- Separates the login section from the header and footer -->
       <div class = "container">
-        <form action = "../php/loginAccount.php" method = "post"> <!-- Will send the submitted data to be processed in login.php -->
+        <form action = "../php/login.php" method = "post"> <!-- Will send the submitted data to be processed in login.php -->
         <div class = "login-box"> <!-- Separates the actual box from the rest of the section so that it can be moved around and styled differently from the background -->
             <div>
               <label>Email</label>
