@@ -1,8 +1,6 @@
 <?php
-
+/*
 include 'functions.php';
-
-
 
 if(isset($_POST['submitbutton']))
 {
@@ -56,5 +54,7 @@ if(isset($_POST['submitbutton']))
 	else
 		die("Incorrect username / password.");
 	
-	mysqli_close($conn);
+	mysqli_close($conn);*/
+	
+	echo 'successful transfer';
 }
