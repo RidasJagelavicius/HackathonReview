@@ -24,9 +24,6 @@ include 'functions.php';
 	// Find the number of rows matching our search
 	$resultCheck = mysqli_num_rows($result);
 
-	// Prints number of matching emails (should be 1, otherwise there are two or more of the same email registered)
-	//echo "with " . $resultCheck . " results. <br>";
-
 	// Set var $row equal to the result row of our query (this is an array)
 	$row = mysqli_fetch_assoc($result);
 	
