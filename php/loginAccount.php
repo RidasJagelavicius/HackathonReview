@@ -1,9 +1,7 @@
 <?php
-/*
+
 include 'functions.php';
 
-if(isset($_POST['submitbutton']))
-{
 	if(isset($_POST['email']) && isset($_POST['password']))
 	{
 		$email = $mysqli->real_escape_string($_POST['email']);
@@ -57,6 +55,6 @@ if(isset($_POST['submitbutton']))
 	mysqli_close($conn);
 	
 	
-}*/
-echo 'successful transfer';
+
+
 ?>
