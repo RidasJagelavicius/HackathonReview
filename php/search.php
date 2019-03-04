@@ -3,12 +3,10 @@ include 'functions.php';
 session_start();
 
 // Create connection to SQL
-
-
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $db);
 
 //$search = $mysqli->real_escape_string($_POST['userSearch']);
-$search = $_POST['userSearch'];
+$search = $_GET['userSearch'];
 
 if(trim($search) == '')
 	die("No search term entered!");
