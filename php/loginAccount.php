@@ -1,13 +1,3 @@
- <html>
-<form method = "post">
-	<h> Login using existing account </h>
-	<p> Email <input type = "text" name = "email"/></p>
-	<p> Password <input type = "password" name = "password"/></p>
-	<p><input type="checkbox" name = "remember"/>Remember me</p>
-	<p><input type="submit" name="submitbutton"/></p>
-</form>
-</html>
-
 <?php
 
 include 'functions.php';
@@ -20,7 +10,7 @@ if(isset($_POST['submitbutton']))
 	{
 		$email = $mysqli->real_escape_string($_POST['email']);
 		$user_password = $mysqli->real_escape_string($_POST['password']);
-		$rememberme = $mysqli->real_escape_string($_POST['remember']);
+		$rememberme = $mysqli->real_escape_string($_POST['rememberMe']);
 	}
 	else
 		die("One or more of your inputs are missing. Please return and re-check your entries.");
