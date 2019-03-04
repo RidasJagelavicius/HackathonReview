@@ -1,30 +1,16 @@
-<html>
-<form method="post">
- <h> Register a new account </h>
- <p>Email: <input type="text" name="email" /></p>
- <p>Password: <input type="password" name="password"/></p>
- <p>Username: <input type="text" name = "username"/></p>
- <p><input type="submit" name="submitbutton"/></p>
-</form>
-</html>
-
 <?php
 
-// Login information
-$servername = "localhost";
-$username = "root";
-$password = "raspberrypi";
-$dbname = "HackathonReview";
-$conn = new mysqli($servername, $username, $password, $dbname);
+include 'functions.php';
 
 
-if(isset($_POST['submitbutton']))
-{
 	if(isset($_POST['email']) && !empty($_POST['email']) && isset($_POST['password']) && !empty($_POST['password']))
 	{
-		$email = $mysqli->real_escape_string($_POST['email']);
-		$user_password = $mysqli->real_escape_string($_POST['password']);
-		$user_name = $mysqli->real_escape_string($_POST['username']);
+		//$email = $mysqli->real_escape_string($_POST['email']);
+		//$user_password = $mysqli->real_escape_string($_POST['password']);
+		//$user_name = $mysqli->real_escape_string($_POST['userName']);
+		$email = $_POST['email'];
+		$user_password = $_POST['password'];
+		$user_name = $_POST['userName'];
 	}
 	else
 		die("One or more of your inputs are missing. Please return and re-check your entries.");
@@ -56,12 +42,12 @@ if(isset($_POST['submitbutton']))
 
 	if ($conn->query($sql) === TRUE) {
 		echo "New account registered successfully";
+		//header("Location:/html/login.html");
+		//exit();
 	} 
 
 	else {
 		echo "Error: " . $sql . "<br>" . $conn->error;
 }
-	
 	mysqli_close($conn);
-}
 ?>
