@@ -38,7 +38,7 @@
     </header>
     <section class = "signup-area"> <!-- Separates the login section from the header and footer -->
       <div class = "container">
-        <form action = "../registerAccount.php" method = "post"> <!-- Will send the submitted data to be processed in login.php -->
+        <form action = "../php/registerAccount.php" method = "post"> <!-- Will send the submitted data to be processed in login.php -->
         <div class = "signup-box"> <!-- Separates the actual box from the rest of the section so that it can be moved around and styled differently from the background -->
             <div>
               <label>Username</label>
@@ -56,7 +56,7 @@
               <label>Password</label>
             </div>
             <div>
-              <input type = "password" name = "passwordOriginal" placeholder = "********"> <!-- Creates an input of type password which is different than text because the entered values show up as "*" -->
+              <input type = "password" name = "password" placeholder = "********"> <!-- Creates an input of type password which is different than text because the entered values show up as "*" -->
             </div>
             <div>
               <label>Confirm Password</label>
