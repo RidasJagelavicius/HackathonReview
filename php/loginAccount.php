@@ -54,7 +54,9 @@ if(isset($_POST['submitbutton']))
 	else
 		die("Incorrect username / password.");
 	
-	mysqli_close($conn);*/
+	mysqli_close($conn);
 	
-	echo 'successful transfer';
-}
+	
+}*/
+echo 'successful transfer';
+?>
