@@ -38,7 +38,9 @@ include 'functions.php';
 	if($check)
 		$loginok = TRUE;
 	else
-		echo $loginok = FALSE;
+		$loginok = FALSE;
+	
+	
 	if($loginok == TRUE)
 	{
 		if($rememberme == TRUE)
@@ -46,15 +48,12 @@ include 'functions.php';
 		else
 			$_SESSION['username'] = $username;
 	
-		header("Location: index.php");
+		//header("Location: index.php");
 		exit();
 	}
 	else
 		die("Incorrect username / password.");
 	
 	mysqli_close($conn);
-	
-	
-
 
 ?>
