@@ -6,6 +6,7 @@ include 'functions.php';
 	{
 		//$email = $mysqli->real_escape_string($_POST['email']);
 		//$user_password = $mysqli->real_escape_string($_POST['password']);
+		
 		$email = $_POST['email'];
 		$user_password = $_POST['password'];
 		$rememberme = $_POST['rememberMe'];
@@ -50,7 +51,7 @@ include 'functions.php';
 		else
 			$_SESSION['username'] = $username;
 	
-		//header("Location: index.php");
+		header("Location:/html/login.html");
 		exit();
 	}
 	else
