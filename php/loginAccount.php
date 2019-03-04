@@ -4,8 +4,10 @@ include 'functions.php';
 
 	if(isset($_POST['email']) && isset($_POST['password']))
 	{
-		$email = $mysqli->real_escape_string($_POST['email']);
-		$user_password = $mysqli->real_escape_string($_POST['password']);
+		//$email = $mysqli->real_escape_string($_POST['email']);
+		//$user_password = $mysqli->real_escape_string($_POST['password']);
+		$email = $_POST['email'];
+		$user_password = $_POST['password'];
 		$rememberme = $_POST['rememberMe'];
 	}
 	else
