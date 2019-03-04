@@ -2,18 +2,14 @@
 include 'functions.php';
 session_start();
 
-// Login information
-$dbhost = 'localhost';
-$dbuser = 'root';
-$dbpass = 'raspberrypi';
-$db = 'HackathonReview';
-
 // Create connection to SQL
 
 
 $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $db);
 
-$search = $mysqli->real_escape_string($_POST['userSearch']);
+//$search = $mysqli->real_escape_string($_POST['userSearch']);
+$search = $_POST['userSearch'];
+
 if(trim($search) == '')
 	die("No search term entered!");
 
@@ -50,9 +46,4 @@ $numHacks = mysqli_num_rows($result2);
 		die('No matches found');
 ?>
 
-<html>
-<form action = "index.php" method = "post"> 
-	<p> <input type = "submit" value = "Go home"/></p>
-</form>
-</html>
 
