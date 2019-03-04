@@ -114,20 +114,24 @@ body{
 .login-box input{
   width: 30vw;
 }
+.rememberUser{
+  display: flex;
+}
 .rememberUser span{
   position: relative;
+  width: 200vw;
   top: -4vh;
-  left: 0vw;
+  left: 2.5vw;
 }
 .rememberUser input{
   position: relative;
-  top: -7.05vh;
-  left: 10vw;
+  top: -4vh;
+  left: -5vw;
 }
 .login-box button{
   width: 14vw;
   position: relative;
-  top: -7vh;
+  top: -3.5vh;
 }
 .login-box a:hover{
   color: #3982FD;
@@ -195,3 +199,70 @@ body{
   color: black;
 }
 /* END FOOTER STYLING */
+
+/* MEDIA QUERIES */
+@media (max-width: 600px){
+  #branding{
+  height: 7.6vh;
+}
+  #branding h1{
+  font-size: 6vh;
+}
+    header input, header button{
+    position: relative;
+    top: -3px;
+    right: 10%;
+    height: 3vh;
+    width: 18vw;
+  }
+    header button{
+    height: 4.1vh;
+    width: 5vw;
+  }
+  .rememberUser input{
+    top: -3.7vh;
+    left: -4vw;
+  }
+    header nav a{
+    padding: 0 6vw;
+  }
+}
+
+@media (max-width: 475px){
+  #branding{
+  height: 7.6vh;
+}
+  #branding h1{
+  font-size: 4.2vh;
+  top: 3.4vh;
+}
+    header input, header button{
+    position: relative;
+    top: -3px;
+    right: 1vw;
+    height: 3vh;
+    width: 18vw;
+  }
+    header button{
+    height: 4.1vh;
+    width: 8vw;
+  }
+    header nav a{
+    padding: 0 2.2vw;
+    font-size: 14px;
+  }
+    .login-box input{
+      width: 40vw;
+    }
+    .rememberUser input{
+      top: -3.5vh;
+      left: 2vw;
+    }
+  footer p, footer a{
+  font-size: 8.2px;
+}
+  footer a{
+  position: relative;
+  bottom: .8vh;
+}
+}
