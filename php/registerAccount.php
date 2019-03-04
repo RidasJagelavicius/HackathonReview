@@ -42,6 +42,8 @@ include 'functions.php';
 
 	if ($conn->query($sql) === TRUE) {
 		echo "New account registered successfully";
+		//header("Location:/html/login.html");
+		//exit();
 	} 
 
 	else {
