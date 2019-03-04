@@ -6,7 +6,7 @@ include 'functions.php';
 	{
 		$email = $mysqli->real_escape_string($_POST['email']);
 		$user_password = $mysqli->real_escape_string($_POST['password']);
-		$rememberme = $mysqli->real_escape_string($_POST['rememberMe']);
+		$rememberme = $_POST['rememberMe'];
 	}
 	else
 		die("One or more of your inputs are missing. Please return and re-check your entries.");
