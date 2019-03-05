@@ -1,9 +1,8 @@
 <!-- About Page
     This page is the portal for when a user clicks "About" on index.html
-    Author: Sean Fisher -->
+    Author: Sean Fisher / Matas Lauzadis -->
 
 <!DOCTYPE HTML>
-
 <html> <!-- opening html tag -->
   <head>
     <meta charset = "utf-8">
@@ -11,7 +10,10 @@
     <meta name = "keywords" content = "hackathon, rate, review, sort, best hackathon, MLH, about">
     <meta name = "author" content = "Ridas Jagelavicius, Sean Fisher, Matas Lauzadis">
     <meta name = "viewport" content = "width=device-width">
-    <link rel = "stylesheet" href = "./css/styles"> <!-- Links our CSS code that styles that website, adding colors, spacing, etc. -->
+    <link rel = "stylesheet" href = "../css/styles.css"> <!-- Links our CSS code that styles that website, adding colors, spacing, etc. -->
+	<link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet"> <!-- Imports a font -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> <!-- Imports icons -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
     <title>Hackathon Review | About Page</title>
   </head>
   <body>
@@ -22,20 +24,21 @@
         </div>
         <nav> <!-- This will contain the navigation elements that link to different pages of the website -->
           <ul> <!-- Used to create bulleted lists which can then be edited in CSS to remove bullets - commonly used to order navigation pages (ex. Main | About | Contact) -->
-            <li><a href = "./html/home.html">Home</a></li> <!-- "li" Serves as a "bullet point" and "a href" as a link to another page in the project directory -->
-            <li><a href = "./html/reviews.html">Reviews</a></li>
-            <li><a href = "./html/profile.html">Profile</a></li>
+            <li><a href = "../html/home.html">Home</a></li> <!-- "li" Serves as a "bullet point" and "a href" as a link to another page in the project directory -->
+            <li><a href = "../html/reviews.html">Hackathons</a></li>
+            <li class = "active"><a href = "../html/profile.html">Profile</a></li>
+			<li><a href = "../html/login.html">Login</a></li>
           </ul>
         </nav>
         <!-- PHP may be inserted below to later change the header login to display a customized message -->
         <div id = "header-login"> <!-- This separates the "Login" and "Sign Up" portions from the rest of the header -->
-          <h1>Have an account?</h1>
+          <!--  <h1>Have an account?</h1>-
           <p><a href = "./html/login.html">Login</a></p>
           <h1>New to the website?</h1>
-          <p><a href = "./html/signup.html">Sign up</a></p>
-        </div>
+          <p><a href = "./html/signup.html">Sign up</a></p>    -->
+        </div> 
         <!-- PHP may be inserted above to later change the header login to display a customized message -->
-        <form action = "./search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
+        <form action = "../php/search.php" method = "get"> <!-- Will create a form that can submit data that causes a php file to execute using the HTTP GET method so the result is visible in the url and can be bookmarked -->
           <input type = "text" placeholder = "Search..." name = "userSearch"> <!-- Creates a searchbar with the value "Search..." if no text is entered -->
           <button type = "button" value = "Submit"></button> <!-- Will submit the form when clicked (ie will search) -->
         </form>
