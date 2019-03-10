@@ -1,16 +1,20 @@
 <?php
 
 include 'functions.php';
-
-
-	if(isset($_POST['email']) && !empty($_POST['email']) && isset($_POST['password']) && !empty($_POST['password']))
+	if(isset($_POST['email']) && !empty($_POST['email']) && isset($_POST['passwordOriginal']) && !empty($_POST['passwordOriginal']))
 	{
+		
 		//$email = $mysqli->real_escape_string($_POST['email']);
 		//$user_password = $mysqli->real_escape_string($_POST['password']);
 		//$user_name = $mysqli->real_escape_string($_POST['userName']);
-		$email = $_POST['email'];
-		$user_password = $_POST['password'];
-		$user_name = $_POST['userName'];
+		if($_POST['passwordOriginal'] == $_POST['passwordConfirm'])
+		{	
+			$email = $_POST['email'];
+			$user_password = $_POST['passwordOriginal'];
+			$user_name = $_POST['userName'];
+		}
+		else
+			die("Password and confirm password do not match!");
 	}
 	else
 		die("One or more of your inputs are missing. Please return and re-check your entries.");
