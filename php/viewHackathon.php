@@ -1,11 +1,6 @@
 <?php
 
 include 'functions.php';
-
-$servername = "localhost";
-$username = "root";
-$password = "raspberrypi";
-$dbname = "HackathonReview";
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 $hackid = $mysqli->real_escape_string($_GET['hackid']);
