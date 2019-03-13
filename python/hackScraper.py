@@ -20,6 +20,7 @@ for div in soup.find_all('div', class_='event-wrapper'):
     region = div.find('span', itemprop='addressRegion').text
     site = div.find('a').get('href')
     logo = div.find('div',class_='event-logo').find('img').get('src')
+    img = div.find('div',class_='image-wrap').find('img').get('src')
     
     #Write info to file
     file.write(hackName + "\n")
@@ -28,7 +29,11 @@ for div in soup.find_all('div', class_='event-wrapper'):
     file.write(city + "\n")
     file.write(region + "\n")
     file.write(site + "\n")
-    file.write(logo + "\n\n")
+    file.write(logo + "\n")
+    file.write(img + "\n\n")
 
-#Close the file; Good practice to capture all content
+#Close the file; guarantees that all info was gathered
 file.close()
+
+#Display that the process has been completed
+print("Content successfully scraped")
