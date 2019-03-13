@@ -36,10 +36,11 @@ while(!feof($file))
 	$count++;
 }
 
-
+var_dump($count);
+/*
 for ($x = 0; $x < $count; $x++)
 {
 	echo $name[$x] . '<br>';
-}
+}*/
 
 ?>
