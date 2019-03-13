@@ -11,7 +11,7 @@ $name = array(); $state; $city; $start; $end; $siteURL; $logoURL; $backgroundURL
 while(!feof($file))
 {
 	if($count%9 == 1)
-		$name = fgets($file);
+		$name[] = fgets($file);
 	else if($count%9 == 2)
 		$start = fgets($file);
 	else if($count%9 == 3)
