@@ -6,7 +6,7 @@ $file = fopen('HackathonInfo.txt','r');
 
 $count = 1;
 
-$name; $state; $city; $start; $end; $siteURL; $logoURL; $backgroundURL;
+$name = array(); $state; $city; $start; $end; $siteURL; $logoURL; $backgroundURL;
 
 while(!feof($file))
 {
