@@ -17,7 +17,6 @@ $backgroundURL=array();
 $count = 1;
 while(!feof($file))
 {
-	
 	if($count%9 == 1)
 		$name[] = fgets($file);
 	else if($count%9 == 2)
@@ -36,17 +35,13 @@ while(!feof($file))
 		$backgroundURL[] = fgets($file);
 	else if($count%9 == 0)
 		fgets($file);
-	
 	$count++;
 }
 
 $num_hacks = $count / 9;
 
-
-var_dump($name);
-/*for ($x = 0; $x < $num_hacks; $x++)
+for ($x = 0; $x < $num_hacks; $x++)
 {
 	echo $name[$x] . '<br>';
-}*/
-
+}
 ?>
