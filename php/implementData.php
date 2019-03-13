@@ -42,6 +42,7 @@ $num_hacks = $count / 9;
 
 for ($x = 0; $x < $num_hacks; $x++)
 {
-	echo $name[$x] . '<br>';
+	$sql = "INSERT INTO Hackathons (Name, State, City, Start, End, siteURL, logoURL, backgroundURL) VALUES ('$name[$x]','$start[$x]','$end[$x]','$city[$x]','$state[$x]','$siteURL[$x]','$logoURL[$x]','$backgroundURL[$x]')";
+	mysqli_query($conn,$sql);
 }
 ?>
