@@ -29,5 +29,9 @@ while(!feof($file))
 	$count++;
 }
 
-var_dump($name);
+for($x = 0; $x < $count; $x++)
+{
+	echo $name[$x] . '<br>';
+}
+
 ?>
