@@ -33,6 +33,7 @@ while(!feof($file))
 		$logoURL[] = fgets($file);
 	else if($count%9 == 8)
 		$backgroundURL[] = fgets($file);
+	
 	$count++;
 }
 
