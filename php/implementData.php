@@ -35,5 +35,7 @@ while(!feof($file))
 		$backgroundURL[] = fgets($file);
 	$count++;
 }
-var_dump($name);
+
+echo $name[0];
+
 ?>
