@@ -36,11 +36,11 @@ while(!feof($file))
 	$count++;
 }
 
-var_dump($count);
-/*
-for ($x = 0; $x < $count; $x++)
+$num_hacks = $count / 9;
+
+for ($x = 0; $x < $num_hacks; $x++)
 {
 	echo $name[$x] . '<br>';
-}*/
+}
 
 ?>
