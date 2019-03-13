@@ -36,6 +36,9 @@ while(!feof($file))
 	$count++;
 }
 
-echo $name[0];
+for($int = 0; $int < $count; $int++)
+{
+	echo $name[$int] . '<br>';
+}
 
 ?>
