@@ -4,7 +4,6 @@ include 'functions.php';
 
 $file = fopen('HackathonInfo.txt','r');
 
-$count = 1;
 
 $name=array(); 
 $state=array(); 
@@ -15,8 +14,10 @@ $siteURL=array();
 $logoURL=array(); 
 $backgroundURL=array();
 
+$count = 1;
 while(!feof($file))
 {
+	
 	if($count%9 == 1)
 		$name[] = fgets($file);
 	else if($count%9 == 2)
@@ -33,6 +34,8 @@ while(!feof($file))
 		$logoURL[] = fgets($file);
 	else if($count%9 == 8)
 		$backgroundURL[] = fgets($file);
+	else if($count%9 == 0)
+		fgets($file);
 	
 	$count++;
 }
