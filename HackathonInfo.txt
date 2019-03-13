@@ -5,6 +5,7 @@ Toronto
 ON
 http://hackthe6ix.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/909/thumb/Hackthe6ixMLHLogo.jpg?1527782042
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/909/thumb/Hackthe6ixcityBackground.jpg?1527782042
 
 HackMTY
 2018-08-25
@@ -13,6 +14,7 @@ Monterrey
 MX
 http://hackmty.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/910/thumb/HackMTYLogo-MLH.png?1527782154
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/910/thumb/HackMTYsplash-MLH.png?1527782154
 
 ByteHacks
 2018-09-01
@@ -21,6 +23,7 @@ New York
 NY
 http://bytehacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/911/thumb/ByteHacks_Logo.png?1527782234
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/911/thumb/ByteHacks_MLH_Cover.png?1527782234
 
 MedHacks
 2018-09-07
@@ -29,6 +32,7 @@ Baltimore
 MD
 http://medhacks.org/2018
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/923/thumb/MedHacks_Logo-04.jpg?1530279198
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/923/thumb/MedHacks_Logo-06.jpg?1530279199
 
 MXHacks
 2018-09-07
@@ -37,6 +41,7 @@ Mexico City
 MX
 https://mxhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/932/thumb/logo.jpeg?1532963080
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/932/thumb/494092903_961bb006da.jpg?1532963081
 
 PennApps
 2018-09-07
@@ -45,6 +50,7 @@ Philadelphia
 PA
 http://2018f.pennapps.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/929/thumb/logo-final-light.png?1531949145
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/929/thumb/philadelphia-skyline-river-108957686.jpg?1531949145
 
 HackTheU
 2018-09-08
@@ -53,6 +59,7 @@ Salt Lake City
 UT
 http://hacktheu.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/924/thumb/Logo_with_Black_Background_-_No_Space-01.png?1530802627
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/924/thumb/Event_Square.png?1530802628
 
 HackRice 8
 2018-09-14
@@ -61,6 +68,7 @@ Houston
 TX
 http://hack.rice.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/926/thumb/logo_square_purple_2x.png?1531248522
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/926/thumb/mlh.png?1531248523
 
 Hack the North
 2018-09-14
@@ -69,6 +77,7 @@ Waterloo
 ON
 https://hackthenorth.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/930/thumb/HtNlogo.png?1532400383
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/930/thumb/htnsplash.png?1532400383
 
 SBU Hacks
 2018-09-14
@@ -77,6 +86,7 @@ Stony Brook
 NY
 http://sbuhacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/925/thumb/logo.png?1531247128
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/925/thumb/Planetblack.png?1531247362
 
 ShellHacks
 2018-09-14
@@ -85,6 +95,7 @@ Miami
 FL
 https://shellhacks.net/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/912/thumb/Shelllogo.png?1527782408
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/912/thumb/shellhacks_MLH_Background.png?1527795905
 
 Hophacks
 2018-09-15
@@ -93,6 +104,7 @@ Baltimore
 MD
 http://hophacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/913/thumb/hophacksmlh_logo.png?1527782501
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/913/thumb/hophacksmd-wifi.png?1527782502
 
 Lumohacks
 2018-09-15
@@ -101,6 +113,7 @@ Burnaby
 BC
 http://lumohacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/944/thumb/Lumohacks_square_logo.png?1534370502
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/944/thumb/Lumohacks_square_bg.png?1534370502
 
 BASEHacks 3.0
 2018-09-22
@@ -109,6 +122,7 @@ Fremont
 CA
 http://www.basehacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/937/thumb/basehacks2logo.png?1533835710
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/937/thumb/basehacksbackground.png?1533835711
 
 GrizzHacks
 2018-09-22
@@ -117,6 +131,7 @@ Rochester
 MI
 http://grizzhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/927/thumb/grizzlogo-plain.png?1531324425
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/927/thumb/grizzaerial-480__2_.jpg?1531324431
 
 Ram Hacks
 2018-09-22
@@ -125,6 +140,7 @@ Richmond
 VA
 http://ramhacks.vcu.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/914/thumb/ramhacks_logo.jpg?1527782576
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/914/thumb/ramhacks_bg.jpg?1527782576
 
 Volhacks
 2018-09-28
@@ -133,6 +149,7 @@ Knoxville
 TN
 https://volhacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/915/thumb/volhackssocial_icon1small100x100.png?1527782734
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/915/thumb/volhacksmknight_300x300.png?1527782734
 
 HackNY
 2018-09-29
@@ -141,6 +158,7 @@ New York
 NY
 http://hackny.org/hackathon/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/943/thumb/hackNY_Square_Red_Logo100px.png?1534175324
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/943/thumb/hackny_mlh_splash.jpg?1534175324
 
 Mining hack
 2018-09-29
@@ -149,6 +167,7 @@ TorreÃ³n
 MX
 http://mininghack.tech/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/990/thumb/ava_sq.jpg?1535648341
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/990/thumb/b5.jpg?1535648341
 
 HackGSU
 2018-10-05
@@ -157,6 +176,7 @@ Atlanta
 GA
 http://hackgsu.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/922/thumb/Screen_Shot_2018-06-04_at_2.32.39_PM.jpg?1528463298
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/922/thumb/hackgsu_mlh_splash_300.png?1528463298
 
 HackNC
 2018-10-05
@@ -165,6 +185,7 @@ Chapel Hill
 NC
 http://hacknc.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/999/thumb/logo_%281%29.png?1536598747
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/999/thumb/CarnivalBanner-mlh.png?1536598748
 
 Hack This. Help Kids.
 2018-10-05
@@ -173,6 +194,7 @@ Pittsburgh
 PA
 http://hackthishelpkids.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/933/thumb/UPMC_CHP.jpg?1536320403
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/933/thumb/18204w_Hackathon---MLH-Image_d2.jpg?1536320403
 
 HackPSU
 2018-10-06
@@ -181,6 +203,7 @@ State College
 PA
 https://hackpsu.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/942/thumb/MLH_logo1.jpg?1534174605
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/942/thumb/MLH_splash.jpg?1534174606
 
 HackRU
 2018-10-06
@@ -189,6 +212,7 @@ New Brunswick
 NJ
 https://www.hackru.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/939/thumb/hackruF18logo.png?1533847456
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/939/thumb/icon-wbgsplash.png?1533847456
 
 HackUIowa
 2018-10-06
@@ -197,6 +221,7 @@ Iowa City
 IA
 http://bigdata.uiowa.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/934/thumb/UIOWA_Hackathon_logo_2018.png?1533247483
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/934/thumb/UIOWA_background.jpg?1533247483
 
 HackUTA
 2018-10-06
@@ -205,6 +230,7 @@ Arlington
 TX
 http://hackuta.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/000/thumb/dense_horse_copy_2__1_.png?1536700056
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/000/thumb/background.jpg?1536700056
 
 HAkron 3000
 2018-10-06
@@ -213,6 +239,7 @@ Akron
 OH
 http://www.hakron.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/992/thumb/event_logo_square.png?1535735877
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/992/thumb/event_background_square.png?1535735878
 
 HackCooper
 2018-10-12
@@ -221,6 +248,7 @@ New York
 NY
 http://hackcooper.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/988/thumb/hackcooper_square.jpg?1535643552
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/988/thumb/cooper_union_square.jpg?1535643552
 
 HackUMass  
 2018-10-12
@@ -229,6 +257,7 @@ Amherst
 MA
 https://hackumass.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/986/thumb/Square_WhiteBG.jpg?1535482772
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/986/thumb/venue_sq.jpg?1535482772
 
 MHacks
 2018-10-12
@@ -237,6 +266,7 @@ Ann Arbor
 MI
 https://mhacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/991/thumb/mhackslogo.png?1535734230
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/991/thumb/mhacksbackground.jpg?1535734234
 
 PatriotHacks
 2018-10-12
@@ -245,6 +275,7 @@ Fairfax
 VA
 http://patriothacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/940/thumb/final-patriothacks-100.png?1533849966
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/940/thumb/p_hacks_no_outline.png?1533849966
 
 SD Hacks
 2018-10-12
@@ -253,6 +284,7 @@ La Jolla
 CA
 http://www.sdhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/917/thumb/SD_Hacks_logo.png?1527782931
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/917/thumb/SDHAcksSplash.png?1527782931
 
 TigerHacks
 2018-10-12
@@ -261,6 +293,7 @@ Columbia
 MO
 http://tigerhacks.missouri.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/005/thumb/Full.png?1537199304
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/005/thumb/columns.jpg?1537199304
 
 EastHacks
 2018-10-13
@@ -269,6 +302,7 @@ Cherry Hill
 NJ
 https://www.easthacks.us/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/003/thumb/unnamed_%281%29.jpg?1536885592
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/003/thumb/199d240828536b0636f634f41674259416c6743.jpg?1536885592
 
 HackDuke
 2018-10-13
@@ -277,6 +311,7 @@ Durham
 NC
 http://hackduke.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/013/thumb/40638542_2187854944784027_7496982994192695296_n__1_.jpg?1537543106
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/013/thumb/duke_chapel.jpg?1537543107
 
 BigRed//Hacks
 2018-10-19
@@ -285,6 +320,7 @@ Ithaca
 NY
 http://bigredhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/919/thumb/BRH_logo_2017__1_.png?1527783091
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/919/thumb/brh-wallpaper-branded.png?1527783091
 
 BoilerMake
 2018-10-19
@@ -293,6 +329,7 @@ West Lafayette
 IN
 http://boilermake.org
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/947/thumb/bmlogo.png?1534951259
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/947/thumb/bmback.png?1534951260
 
 HackGT
 2018-10-19
@@ -301,6 +338,7 @@ Atlanta
 GA
 https://2018.hack.gt/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/918/thumb/100x100_HackGTEventLogo.png?1527783018
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/918/thumb/300x300_HackGTSplashImage.png?1527783018
 
 HackHarvard College
 2018-10-19
@@ -309,6 +347,7 @@ Cambridge
 MA
 http://hackharvard.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/984/thumb/mlh_hh_logo.png?1535052967
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/984/thumb/mlh_harvard_bg.png?1535052967
 
 HackISU
 2018-10-19
@@ -317,6 +356,7 @@ Ames
 IA
 http://hackisu.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/928/thumb/Squirrel-X.png?1531834338
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/928/thumb/Backdrop.png?1531834339
 
 Hack KState
 2018-10-19
@@ -325,6 +365,7 @@ Manhattan
 KS
 https://hackkstate.tech/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/941/thumb/logo_%281%29.png?1533925635
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/941/thumb/background.jpg?1533925636
 
  Kent Hack Enough 
 2018-10-19
@@ -333,6 +374,7 @@ Kent
 OH
 http://khe.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/983/thumb/KHElogo.png?1535037743
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/983/thumb/KHEbackground.png?1535037743
 
 DemonHacks
 2018-10-20
@@ -341,6 +383,7 @@ Chicago
 IL
 http://demonhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/945/thumb/Demonhacks_2018_Final_.png?1534801917
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/945/thumb/Hancock300x300.jpg?1534801917
 
 DubHacks
 2018-10-20
@@ -349,6 +392,7 @@ Seattle
 WA
 http://dubhacks.co/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/948/thumb/mlh-dubhacks-profile.png?1534952894
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/948/thumb/mlh-dubhacks-cover.png?1534952894
 
 HackTX
 2018-10-20
@@ -357,6 +401,7 @@ Austin
 TX
 http://hacktx.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/949/thumb/Favicon.png?1534953031
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/949/thumb/MLHBanner.png?1534953031
 
 HackUMBC
 2018-10-20
@@ -365,6 +410,7 @@ Baltimore
 MD
 http://hackumbc.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/946/thumb/HackUMBC.Facebook.Logo.jpg?1534876208
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/946/thumb/TrueGritGray.jpg?1534876208
 
 HyphenHacks
 2018-10-20
@@ -373,6 +419,7 @@ San Francisco
 CA
 https://hyphen-hacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/931/thumb/hyphhack_%281%29.png?1532451294
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/931/thumb/lick-wilmerding-exterior-3_%281%29.jpg?1532451294
 
 Power the Future
 2018-10-20
@@ -381,6 +428,7 @@ Richmond
 VA
 http://powerthefuture.energy/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/920/thumb/ptf_2018_100by100.png?1527783175
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/920/thumb/ptf_2018_300by300.png?1527783175
 
 Cal Hacks 5.0  
 2018-11-02
@@ -389,6 +437,7 @@ Berkeley
 CA
 https://2018.calhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/996/thumb/Icon__2_.png?1536344821
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/996/thumb/circut.png?1536344821
 
 Electric City Hacks   
 2018-11-02
@@ -397,6 +446,7 @@ Peterborough
 ON
 http://echacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/011/thumb/ECHACKS_Square.png?1537387206
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/011/thumb/ECHACKSsquarebg.png?1537387207
 
 HackHolyoke
 2018-11-02
@@ -405,6 +455,7 @@ South Hadley
 MA
 http://hackholyoke.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/025/thumb/hackHack.png?1539092427
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/025/thumb/aerial-mary-lyon-hall-16x9.png?1539092428
 
 VandyHacks
 2018-11-02
@@ -413,6 +464,7 @@ Nashville
 TN
 https://vandyhacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/993/thumb/vhlogocropped.png?1536077399
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/993/thumb/Square_Background_2-01.png?1536077399
 
 WHACK (Wellesley Hacks)    
 2018-11-02
@@ -421,6 +473,7 @@ Wellesley
 MA
 http://wellesleyhacks.org
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/006/thumb/avatar_on_white.jpg?1537200352
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/006/thumb/mlh_background.jpg?1537200352
 
 CodeRED Discovery
 2018-11-03
@@ -429,6 +482,7 @@ Houston
 TX
 https://uhcode.red/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/015/thumb/AVI.png?1537796485
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/015/thumb/Square_Stars.png?1537796485
 
 HackBI II
 2018-11-03
@@ -437,6 +491,7 @@ Alexandria
 VA
 http://hackbi.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/995/thumb/Icon100x100_%281%29.png?1536263339
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/995/thumb/School_Picture_%282%29.JPG?1536263339
 
 HackNJIT
 2018-11-03
@@ -445,6 +500,7 @@ Newark
 NJ
 http://www.hacknjit.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/023/thumb/hack_njit_vector2.jpg?1538616037
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/023/thumb/background.png?1538616037
 
 hackPHS
 2018-11-03
@@ -453,6 +509,7 @@ Princeton
 NJ
 http://hackphs.tech/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/018/thumb/phsfront.png?1537799409
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/018/thumb/phs-splasg.png?1537799409
 
 HealthHacks
 2018-11-03
@@ -461,6 +518,7 @@ Richmond
 VA
 https://healthhacks.vcu.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/004/thumb/HH18_Sticker-03.png?1537286374
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/004/thumb/HH_Web_2-01.png?1537286375
 
 UB Hacking
 2018-11-03
@@ -469,6 +527,7 @@ Amherst
 NY
 http://ubhacking.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/009/thumb/0AFFC3EA-7F54-4A66-8EC9-47B2E66037C9.png?1537202730
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/009/thumb/A5130D22-9375-4C54-80EF-FEC81D5FE5F2.png?1537202730
 
 HackPrinceton
 2018-11-09
@@ -477,6 +536,7 @@ Princeton
 NJ
 https://hackprinceton.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/998/thumb/pixel_logo__1_.png?1536354525
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/998/thumb/30697825_1838013642915972_6276268012093833216_o.jpg?1536354525
 
 sunhacks
 2018-11-09
@@ -485,6 +545,7 @@ Phoenix / Tempe
 AZ
 http://sunhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/016/thumb/sunhacks_icon_web.jpg?1537797290
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/016/thumb/cropped_location.jpg?1537797290
 
 BostonHacks
 2018-11-10
@@ -493,6 +554,7 @@ Boston
 MA
 http://bostonhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/002/thumb/BostonHacks_EventLogo.jpg?1536850439
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/002/thumb/BostonHacks_EventBackground.jpg?1536850439
 
 Codestellation
 2018-11-10
@@ -501,6 +563,7 @@ Waltham
 MA
 http://www.codestellation.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/010/thumb/Codestellation_logo-01.png?1537220242
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/010/thumb/Codestellation-Square1-01.png?1537220243
 
 HackMCST
 2018-11-10
@@ -509,6 +572,7 @@ Denville
 NJ
 http://hackmcst.tech/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/019/thumb/MLHLogo_%281%29.png?1537809407
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/019/thumb/MLHBackground_%281%29.jpg?1537809407
 
 HackWITUs
 2018-11-10
@@ -517,6 +581,7 @@ Boston
 MA
 https://hackwit.us/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/012/thumb/leopardFaceLogo.jpg?1537387378
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/012/thumb/witbackground.jpg?1537387379
 
 MadHacks
 2018-11-10
@@ -525,6 +590,7 @@ Madison
 WI
 https://www.madhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/020/thumb/madhacks-logo.png?1539966546
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/020/thumb/thumbnail-mad_%281%29.png?1539966547
 
 Technica
 2018-11-10
@@ -533,6 +599,7 @@ College Park
 MD
 https://gotechnica.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/985/thumb/Slice_1.png?1535471649
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/985/thumb/banner_square.png?1535471649
 
 HackUSU
 2018-11-16
@@ -541,6 +608,7 @@ Logan
 UT
 http://hackusu.org
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/014/thumb/bluhackusulogo.png?1537706605
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/014/thumb/logan6.jpg?1537706606
 
 Lehman Hack50
 2018-11-16
@@ -549,6 +617,7 @@ Bronx
 NY
 https://nslehman.github.io/nshackathon/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/017/thumb/Prototype1alt3.png?1537797856
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/017/thumb/lehmam.png?1537797856
 
 BlocHacks
 2018-11-17
@@ -557,6 +626,7 @@ Montreal
 QC
 http://www.blochacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/997/thumb/DevBlocSquare.png?1536346255
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/997/thumb/BackgroundSquare.png?1536346256
 
 SacHacks
 2018-11-17
@@ -565,6 +635,7 @@ Sacramento
 CA
 http://sachacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/022/thumb/slack_icon-01.png?1538615596
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/022/thumb/sac.png?1538615596
 
 Hack Western V
 2018-11-23
@@ -573,6 +644,7 @@ London
 ON
 https://hackwestern.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/921/thumb/hackwesternmlh_event_logo.png?1527783506
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/921/thumb/1hackwesternmlh_event_splash.png?1527783506
 
 YHack
 2018-11-30
@@ -581,6 +653,7 @@ New Haven
 CT
 https://www.yhack.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/024/thumb/FullSizeRender.jpg?1538674256
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/024/thumb/FullSizeRender-1.jpg?1538674257
 
 Local Hack Day
 2018-12-01
@@ -589,6 +662,7 @@ Everywhere
 Worldwide
 https://localhackday.mlh.io
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/040/thumb/mlh-lhd-icon.jpg?1541200147
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/040/thumb/mlh-lhd-splash.jpg?1541200075
 
 Urban Hacks    
 2018-12-08
@@ -597,6 +671,7 @@ Hamilton
 ON
 https://hackthehammer.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/021/thumb/38503175_502348346853792_8807339570166235136_n.png?1538060125
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/021/thumb/Central_Library.jpg?1538060125
 
 SB Hacks
 2019-01-11
@@ -605,6 +680,7 @@ Santa Barbara
 CA
 https://sbhacks.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/052/thumb/favicon.png?1543253818
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/052/thumb/46441670_2558264914185413_5204716758853746688_o.jpg?1543253818
 
 StarterHacks 2019
 2019-01-12
@@ -613,6 +689,7 @@ Waterloo
 ON
 https://starterhacks.ca/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/067/thumb/square.png?1544464831
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/067/thumb/StarterHacks_tile-01.png?1544464831
 
 CruzHacks 2019
 2019-01-18
@@ -621,6 +698,7 @@ Santa Cruz
 CA
 https://www.cruzhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/044/thumb/logo-dark.png?1541802642
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/044/thumb/MLH-square.jpg?1541802642
 
  [emailÂ protected] 
 2019-01-18
@@ -629,6 +707,7 @@ Worcester
 MA
 http://hack.wpi.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/062/thumb/MLH2019.png?1543938793
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/062/thumb/MLH2019.png?1543938794
 
 SpartaHack V
 2019-01-18
@@ -637,6 +716,7 @@ East Lansing
 MI
 https://spartahack.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/055/thumb/sparta.png?1543338404
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/055/thumb/background_image.jpg?1543338405
 
 SwampHacks
 2019-01-18
@@ -645,6 +725,7 @@ Gainesville
 FL
 https://2019.swamphacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/048/thumb/mainLogoV2.jpg?1542314873
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/048/thumb/background__1_.png?1542314874
 
 UofTHacks
 2019-01-18
@@ -653,6 +734,7 @@ Toronto
 ON
 https://uofthacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/060/thumb/MLHPic.png?1543878284
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/060/thumb/MLHBG.png?1543878284
 
 Hackatown
 2019-01-19
@@ -661,6 +743,7 @@ Montreal
 QC
 https://hackatown.io
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/053/thumb/hackatown_logo_final_2_white.png?1543254517
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/053/thumb/background_%281%29.jpg?1543254517
 
 HackED
 2019-01-19
@@ -669,6 +752,7 @@ Edmonton
 AB
 https://hacked.compeclub.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/064/thumb/HackEDSquare.png?1544026166
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/064/thumb/HackEDMLHSquareBG.png?1544026166
 
 HackFRee
 2019-01-19
@@ -677,6 +761,7 @@ Manalapan
 NJ
 http://hackfree.info
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/058/thumb/FRHSD_100_x_100.png?1543877445
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/058/thumb/HACKFREE_300X300.png?1543877446
 
 Rose Hack    
 2019-01-19
@@ -685,6 +770,7 @@ Riverside
 CA
 https://rosehack.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/046/thumb/fbicon.png?1542313851
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/046/thumb/rosehackmlhbanner-01.png?1542313856
 
 <womxn/hacks>  
 2019-01-25
@@ -693,6 +779,7 @@ Santa Barbara
 CA
 https://www.womxnhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/057/thumb/squareastro.jpg?1543876599
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/057/thumb/squarebg.jpg?1543876599
 
 ConUHacks IV  
 2019-01-26
@@ -701,6 +788,7 @@ Montreal
 QC
 https://conuhacks.io/#/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/027/thumb/conuhacks-logo-mlh.png?1539193870
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/027/thumb/conuhacks-bg-mlh-01.png?1539193871
 
 CUhackit
 2019-01-26
@@ -709,6 +797,7 @@ Clemson
 SC
 http://cuhack.it/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/054/thumb/CUhackit_RGB_Logo_Color___Wordmark_Square_EXTRA_SMALL_APPLICATIONS.png?1543255632
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/054/thumb/cuhackit-splash.png?1543255632
 
 DeltaHacks
 2019-01-26
@@ -717,6 +806,7 @@ Hamilton
 ON
 https://www.deltahacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/051/thumb/DHLogoMLH.jpg?1542657328
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/051/thumb/MLHBG.png?1542657328
 
 EarthHacks
 2019-01-26
@@ -725,6 +815,7 @@ Richmond
 VA
 https://earthhacks.vcu.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/059/thumb/Logo_%283%29.png?1543878111
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/059/thumb/EngineeringEastHall.png?1543878111
 
 nwHacks
 2019-01-26
@@ -733,6 +824,7 @@ Vancouver
 BC
 http://nwhacks.io
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/037/thumb/nwHacks_logo_white_on_green.png?1541014248
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/037/thumb/nwHacks_2019_MLH_preview__square_.png?1541014248
 
 TAMUhack
 2019-01-26
@@ -741,6 +833,7 @@ College Station
 TX
 https://tamuhack.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/050/thumb/Artboard_1_4x.png?1542400792
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/050/thumb/Artboard_2_4x.png?1542400792
 
 ElleHacks
 2019-02-01
@@ -749,6 +842,7 @@ Toronto
 ON
 https://ellehacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/100/thumb/ElleHacks_DP.jpg?1548184653
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/100/thumb/ElleHacks_Coverpage.png?1548184653
 
 Hoya Hacks 
 2019-02-01
@@ -757,6 +851,7 @@ Washington
 DC
 http://www.hoyahacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/073/thumb/hoya_hacks_blue_logo_%282%29.jpg?1545059184
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/073/thumb/hoya-blankspalsh.png?1545059184
 
 MangoHacks
 2019-02-01
@@ -765,6 +860,7 @@ Miami
 FL
 https://mangohacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/081/thumb/Screen_Shot_2018-12-27_at_1.16.21_PM.png?1545934765
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/081/thumb/event_bg_square_2.jpg?1545934765
 
 QHacks
 2019-02-01
@@ -773,6 +869,7 @@ Kingston
 ON
 https://qhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/049/thumb/Logo_Tricolor_DP_Test2_%281%29.png?1542400288
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/049/thumb/MLH_LandscapeBG_copy.jpg?1542400288
 
 SLO Hacks
 2019-02-01
@@ -781,6 +878,7 @@ San Luis Obispo
 CA
 https://www.slohacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/047/thumb/slohacks_mlh_logo.png?1542314642
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/047/thumb/mlh_back.png?1542314642
 
 AuburnHacks
 2019-02-02
@@ -789,6 +887,7 @@ Auburn
 AL
 https://auburnhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/035/thumb/AuburnHacks-1.png?1540481150
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/035/thumb/auburn.png?1540481150
 
 MakeHarvard
 2019-02-02
@@ -797,6 +896,7 @@ Cambridge
 MA
 http://makeharvard.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/033/thumb/MakeHarvard_Logo_Light_Green_white_bgn.jpg?1540332861
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/033/thumb/Mem_Hall2.jpg?1540332862
 
 McHacks 6
 2019-02-02
@@ -805,6 +905,7 @@ Montreal
 QC
 https://mchacks.ca
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/042/thumb/logo_%282%29.png?1541431651
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/042/thumb/MLH_Season_Page.png?1541431652
 
 MinneHack
 2019-02-02
@@ -813,6 +914,7 @@ Minneapolis
 MN
 https://minnehack.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/072/thumb/minnie2.png?1545058723
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/072/thumb/background_%281%29.jpg?1545058724
 
 PennApps
 2019-02-02
@@ -821,6 +923,7 @@ Philadelphia
 PA
 http://2019w.pennapps.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/093/thumb/48404759_1845373685589587_6434627815689158656_n.png?1546902026
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/093/thumb/philadelphia-skyline-river-108957686_%281%29.jpg?1546902027
 
 CalvinHacks
 2019-02-08
@@ -829,6 +932,7 @@ Grand Rapids
 MI
 https://calvinhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/071/thumb/calvinhacks_stacked_logo.png?1545058344
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/071/thumb/render_hacks_empty_Cropped.png?1545058344
 
 Hack KU  
 2019-02-08
@@ -837,6 +941,7 @@ Lawrence
 KS
 https://hackku.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/045/thumb/logo400.png?1542038513
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/045/thumb/Final_Background_Image_KU.jpg?1542038513
 
 Sheridan Hackville   
 2019-02-08
@@ -845,6 +950,7 @@ Oakville
 ON
 https://www.hackville.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/097/thumb/Hack_Event_Logo.png?1547745033
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/097/thumb/Hack_Event_Background.png?1547745033
 
 UGAHacks 4  
 2019-02-08
@@ -853,6 +959,7 @@ Athens
 GA
 https://ugahacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/077/thumb/android-chrome-512x512.png?1545254812
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/077/thumb/UGAH4-BG1.jpg?1545254812
 
 HackDavis
 2019-02-09
@@ -861,6 +968,7 @@ Davis
 CA
 https://www.hackdavis.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/065/thumb/HackDavis_Event_Logo.jpg?1544217170
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/065/thumb/HD_Background_MLH.jpg?1544217173
 
 HackHer413
 2019-02-09
@@ -869,6 +977,7 @@ Amherst
 MA
 http://www.hackher413.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/043/thumb/bee_logo.png?1541437077
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/043/thumb/backdrop_%281%29.png?1541437077
 
 Hacklahoma
 2019-02-09
@@ -877,6 +986,7 @@ Norman
 OK
 https://hacklahoma.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/039/thumb/hacklahoma_official_bg.png?1541088393
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/039/thumb/hacklahoma_background.png?1541088393
 
 HackRiddle
 2019-02-09
@@ -885,6 +995,7 @@ Daytona Beach
 FL
 http://hackriddle.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/098/thumb/brand_logo_1.png?1547745240
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/098/thumb/promo_background.png?1547745241
 
 uOttaHack
 2019-02-09
@@ -893,6 +1004,7 @@ Ottawa
 ON
 https://2019.uottahack.ca/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/063/thumb/Classic-Heart_1__%281%29.png?1543955508
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/063/thumb/Full-Buck-Moon-Ottawa-Parliament-July-2017-Sean-Costello-9105-1440x960.jpg?1543955508
 
 XdHacks
 2019-02-09
@@ -901,6 +1013,7 @@ Vancouver
 BC
 https://xdhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/088/thumb/xdhacklogo.png?1546796766
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/088/thumb/xdbackground.png?1546796768
 
 [emailÂ protected] 2019
 2019-02-15
@@ -909,6 +1022,7 @@ Stony Brook
 NY
 https://www.cewit.org/programs/events/hack.php
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/090/thumb/cewit-logo-circle_2__19.png?1546894209
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/090/thumb/cewit.png?1546894210
 
 HackCWRU 6
 2019-02-15
@@ -917,6 +1031,7 @@ Cleveland
 OH
 http://hack.cwru.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/096/thumb/Screen_Shot_2019-01-09_at_4.03.42_AM.png?1547667474
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/096/thumb/case-splash.png?1547667475
 
 HackNYU
 2019-02-15
@@ -925,6 +1040,7 @@ New York
 NY
 https://hacknyu.org
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/087/thumb/Logo-Square-Clear-Black.png?1546702321
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/087/thumb/Arch.jpg?1546702321
 
 HopHacks
 2019-02-15
@@ -933,6 +1049,7 @@ Baltimore
 MD
 https://hophacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/094/thumb/hh.png?1547155818
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/094/thumb/background.png?1547155819
 
 TreeHacks
 2019-02-15
@@ -941,6 +1058,7 @@ Stanford
 CA
 https://www.treehacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/036/thumb/TreeHacks_Profile_Picture_2_%281%29.png?1540826544
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/036/thumb/TreeHacks_MLH_Cover_%281%29.png?1540826544
 
 VT Hacks VI
 2019-02-15
@@ -949,6 +1067,7 @@ Blacksburg
 VA
 https://vthacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/092/thumb/Logo.png?1546898978
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/092/thumb/vthacksbackburussmatrixfinal.png?1546898978
 
 BrickHack
 2019-02-16
@@ -957,6 +1076,7 @@ Rochester
 NY
 http://brickhack.io
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/068/thumb/BH5_Logo.png?1544557284
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/068/thumb/MLH_Background.png?1544557284
 
 cuHacking
 2019-02-16
@@ -965,6 +1085,7 @@ Ottawa
 CA
 https://cuhacking.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/074/thumb/cuhacking-logo-square.png?1545082312
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/074/thumb/cuhacking-background-square.png?1545082312
 
 HackHERS
 2019-02-16
@@ -973,6 +1094,7 @@ New Brunswick
 NJ
 https://ruhackhers.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/082/thumb/SquareLogo.png?1545940201
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/082/thumb/arctic.jpg?1545940201
 
 MakeUofT
 2019-02-16
@@ -981,6 +1103,7 @@ Toronto
 ON
 https://ieee.utoronto.ca/makeuoft/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/083/thumb/MakeUofTLogo.png?1546015357
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/083/thumb/MakeUofTBackground.png?1546015357
 
 Pearl Hacks
 2019-02-16
@@ -989,6 +1112,7 @@ Chapel Hill
 NC
 http://pearlhacks.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/085/thumb/pearelhackslogo_-01.png?1546530155
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/085/thumb/rosie-01.png?1546530156
 
 Uncommon Hacks 
 2019-02-16
@@ -997,6 +1121,7 @@ Chicago
 IL
 https://uncommonhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/084/thumb/Uncommon_Hacks_Logo_White.png?1546440588
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/084/thumb/Uncommon_Hacks_2019_MLH_Background.jpg?1546440588
 
 Hack the Valley III
 2019-02-22
@@ -1005,6 +1130,7 @@ Scarborough
 ON
 https://hackthevalley.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/076/thumb/purp_square.png?1545233703
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/076/thumb/event_bg_square.png?1545233703
 
 CrimsonCode
 2019-02-23
@@ -1013,6 +1139,7 @@ Pullman
 WA
 http://hackathon.eecs.wsu.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/095/thumb/crimsoncodelogo_1080x1080.png?1547178022
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/095/thumb/pullman-wa.jpg?1547178039
 
 HackCU
 2019-02-23
@@ -1021,6 +1148,7 @@ Boulder
 CO
 https://hackcu.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/078/thumb/blue_black.png?1545430196
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/078/thumb/DSC06647.jpg?1545430197
 
 HackTCNJ
 2019-02-23
@@ -1029,6 +1157,7 @@ Ewing
 NJ
 https://hacktcnj.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/086/thumb/hack-tcnj__1__%281%29.png?1546530519
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/086/thumb/TCNJ-campus_%281%29.jpg?1546530519
 
 HackUTD
 2019-02-23
@@ -1037,6 +1166,7 @@ Richardson
 TX
 https://www.hackutd.co/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/070/thumb/mlh-hackutd-19-splash-profpic.png?1544560949
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/070/thumb/mlh-hackutd-19-splash-bg.png?1544560949
 
 Hack DHI
 2019-03-01
@@ -1045,6 +1175,7 @@ Dolores Hidalgo C.I.N
 MX
 https://hackdhi.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/119/thumb/Perfil.png?1549470071
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/119/thumb/HACKDHI300.png?1549470072
 
 HackMerced
 2019-03-01
@@ -1053,14 +1184,16 @@ Merced
 CA
 http://hackmerced.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/106/thumb/logo_%282%29.png?1548874506
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/106/thumb/background_%281%29.png?1548874506
 
-HackTech
+Hacktech
 2019-03-01
 2019-03-03
 Pasadena
 CA
 http://hacktech.io
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/102/thumb/HT_logo_bg_copy.png?1548272745
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/102/thumb/HT_logo_bg.png?1548272669
 
 Knight Hacks
 2019-03-01
@@ -1069,6 +1202,7 @@ Orlando
 FL
 https://knighthacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/117/thumb/kh-logo-2.png?1549376753
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/117/thumb/Hero_Inst_UCF.jpg?1549376754
 
 PickHacks
 2019-03-01
@@ -1077,6 +1211,7 @@ Rolla
 MO
 https://pickhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/038/thumb/pickhacks_final_logo_rgb-01_cropped.png?1541016908
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/038/thumb/Havener_Center_2.png?1541016908
 
 Steelhacks
 2019-03-01
@@ -1085,6 +1220,7 @@ Pittsburgh
 PA
 http://steelhacks.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/111/thumb/steelhacks_final.png?1549054876
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/111/thumb/steelhacks1.png?1549054877
 
 HACK AE 2019
 2019-03-02
@@ -1093,6 +1229,7 @@ Orono
 ME
 https://theaeac.org/events/america-east-hackathon-hack-ae/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/112/thumb/aelogo.jpg?1549057329
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/112/thumb/aeback.jpg?1549057330
 
 HooHacks
 2019-03-02
@@ -1101,6 +1238,7 @@ Charlottesville
 VA
 https://www.hoohacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/104/thumb/logo_mlhsquare.png?1548345158
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/104/thumb/background_mlh.png?1548345158
 
 RevolutionUC
 2019-03-02
@@ -1109,6 +1247,7 @@ Cincinnati
 OH
 https://revolutionuc.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/099/thumb/revuc_logo.png?1547745721
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/099/thumb/mlh-event-bg.jpg?1547745721
 
 SF Hacks 2019 
 2019-03-02
@@ -1117,6 +1256,7 @@ San Francisco
 CA
 https://sfhacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/124/thumb/-bz06aJF_400x400.jpg?1549559019
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/124/thumb/50692529_391260568085411_19852635922235392_n.jpg?1549559020
 
 WiCHacks
 2019-03-02
@@ -1125,6 +1265,16 @@ Rochester
 NY
 https://wichacks.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/069/thumb/WiCHacks_Logo.png?1544557883
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/069/thumb/mlh-season-splash.png?1544557884
+
+cmdf
+2019-03-09
+2019-03-10
+Vancouver
+BC
+http://cmd-f.nwplus.io/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/129/thumb/MLHLogo_%281%29.png?1550605270
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/129/thumb/MLHBanner.png?1550605275
 
 Hacklassonde
 2019-03-09
@@ -1133,6 +1283,7 @@ Toronto
 ON
 http://hacklassonde.ca/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/113/thumb/event-logo.png?1549289580
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/113/thumb/backgorund-berg_2.jpg?1549289580
 
 HackRU
 2019-03-09
@@ -1141,6 +1292,7 @@ New Brunswick
 NJ
 https://hackru.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/123/thumb/HackRUsmall.png?1549482272
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/123/thumb/HackRUBack.png?1549482273
 
 MenloHacks
 2019-03-09
@@ -1149,6 +1301,7 @@ Atherton
 CA
 http://menlohacks.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/101/thumb/menlohacks_icon_512x512.png?1548455249
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/101/thumb/menlo_square.jpg?1548455249
 
 Profhacks
 2019-03-09
@@ -1157,6 +1310,7 @@ Glassboro
 NJ
 https://profhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/109/thumb/logossquare.png?1549052833
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/109/thumb/Rowan_EngineeringHall16_Square.jpg?1549052833
 
 HackPSU
 2019-03-16
@@ -1165,6 +1319,7 @@ University Park
 PA
 https://hackpsu.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/110/thumb/HackPSU_Logo.jpg?1549053102
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/110/thumb/psubuilding.png?1549053102
 
 HackRPI
 2019-03-16
@@ -1173,6 +1328,16 @@ Troy
 NY
 https://hackrpi.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/126/thumb/logo_%285%29.png?1550003046
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/126/thumb/splash.png?1550003046
+
+Cypher V   
+2019-03-22
+2019-03-24
+Williamsburg
+VA
+http://cypher.cs.wm.edu/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/131/thumb/Cypher_V_Logo.png?1550609934
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/131/thumb/cypher_bg.png?1550609934
 
 Hackital
 2019-03-22
@@ -1181,6 +1346,7 @@ Washington
 DC
 http://hackital.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/127/thumb/hackital-favicon.png?1550164203
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/127/thumb/darkened_header_image_from_2016_hackital.png?1550164203
 
 TechTogether Boston  
 2019-03-22
@@ -1189,6 +1355,7 @@ Boston
 MA
 https://boston.techtogether.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/079/thumb/mark_techtogether_color.png?1545862034
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/079/thumb/Boston-Skyline.jpg?1545862035
 
 CrimsonHacks
 2019-03-23
@@ -1197,6 +1364,7 @@ Tuscaloosa
 AL
 https://www.crimsonhacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/107/thumb/logo_prof.png?1548951472
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/107/thumb/Screen_Shot_2018-12-20_at_11.18.42_PM.png?1548951472
 
 Hackabull
 2019-03-23
@@ -1205,6 +1373,7 @@ Tampa
 FL
 https://hackabull.io/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/120/thumb/mlh-logo-square.png?1549470471
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/120/thumb/mlh-background.png?1549470472
 
 Los Altos Hacks   
 2019-03-23
@@ -1213,6 +1382,7 @@ Sunnyvale
 CA
 https://www.losaltoshacks.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/091/thumb/touch-icon.png?1546898719
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/091/thumb/41129832402_215cb2907d_o.jpg?1546898720
 
 MasseyHacks
 2019-03-23
@@ -1221,6 +1391,7 @@ Windsor
 ON
 https://masseyhacks.ca/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/122/thumb/masseysmall.png?1549478677
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/122/thumb/masseyback.png?1549478678
 
 HackGSU
 2019-03-29
@@ -1229,6 +1400,7 @@ Atlanta
 GA
 http://hackgsu.com/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/115/thumb/panther1.png?1549318803
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/115/thumb/alder.png?1549318804
 
 Hack Puebla
 2019-03-29
@@ -1237,6 +1409,7 @@ Puebla
 MX
 http://ing.pue.itesm.mx/hackathon/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/128/thumb/pubela.png?1550170831
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/128/thumb/bgpubela.png?1550170831
 
 LA Hacks
 2019-03-29
@@ -1245,6 +1418,7 @@ Los Angeles
 CA
 http://lahacks.com
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/103/thumb/2019logo-04.png?1548274619
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/103/thumb/MLH_banner-04.png?1548274620
 
 CatHacks
 2019-03-30
@@ -1253,6 +1427,7 @@ Lexington
 KY
 http://cathacks.cs.uky.edu/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/118/thumb/small-cathacks-logo.jpg?1549469679
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/118/thumb/big-cathacks-logo.png?1549469679
 
 HackWCU
 2019-03-30
@@ -1261,6 +1436,7 @@ West Chester
 PA
 https://hackwcu.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/114/thumb/Logo_Colorized_Small.png?1549313609
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/114/thumb/3_Banner_2019_-_Designer.jpg?1549313609
 
 LingHacks II 
 2019-03-30
@@ -1269,6 +1445,115 @@ Fremont
 CA
 http://linghacks.tech/linghacks-ii
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/125/thumb/LingHacksLogo.png?1549560702
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/125/thumb/background.jpeg?1549560702
+
+AthenaHacks
+2019-04-06
+2019-04-07
+Los Angeles
+CA
+http://www.athenahacks.com/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/134/thumb/mlh-logo.png?1550769196
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/134/thumb/mlh-cover-photo.png?1550769197
+
+HackDartmouth
+2019-04-06
+2019-04-07
+Hanover
+NH
+http://hackdartmouth.io/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/141/thumb/mlhDartLogo.png?1551383990
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/141/thumb/mlhBackground.jpg?1551383991
+
+hackMHS
+2019-04-06
+2019-04-07
+Millburn
+NJ
+http://hackmhs.com/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/133/thumb/contentid_image1509568712011.jpeg?1550768746
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/133/thumb/contentid_image1509568712018.jpeg?1550768746
+
+HackTJ
+2019-04-06
+2019-04-07
+Alexandria
+VA
+https://hacktj.org/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/137/thumb/Social_Media_Logo.png?1550789786
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/137/thumb/redback2.png?1550789787
+
+HackUNT
+2019-04-06
+2019-04-07
+Denton
+TX
+https://unthackathon.com/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/138/thumb/siteico.png?1550862727
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/138/thumb/1untbackground.png?1550862729
+
+HackXX
+2019-04-06
+2019-04-07
+San Diego
+CA
+https://www.hackxx.io/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/135/thumb/HackXX-2019_mlh-logo-no-circle.jpg?1550779679
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/135/thumb/HackXX-2019_mlh-square-event.jpg?1550779680
+
+HatterHacks
+2019-04-06
+2019-04-07
+DeLand
+FL
+http://greatercentralfloridatechfaire.com/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/148/thumb/MLH_logo.png?1551973702
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/148/thumb/Stetson-University.jpg?1551973702
+
+Minerva Hackathon
+2019-04-06
+2019-04-07
+San Francisco
+CA
+https://minervahacks.com
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/144/thumb/MLH_logo.png?1551711778
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/144/thumb/MLH_Background.jpg?1551711778
+
+Bitcamp
+2019-04-12
+2019-04-14
+College Park
+MD
+https://bit.camp/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/136/thumb/bitcamp-logo-icon_mlh-01-01.png?1550789540
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/136/thumb/19-mlhdisc-banner_7-01.png?1550789541
+
+HackSC
+2019-04-12
+2019-04-14
+Los Angeles
+CA
+https://hacksc.com/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/132/thumb/Logo_flower_sq_white.png?1550677250
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/132/thumb/event_bg_sq.png?1550677250
+
+Def Hacks Seattle 2019
+2019-04-13
+2019-04-14
+Redmond
+WA
+http://defhacks.io/hackathons/seattle.html
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/145/thumb/defhacks-logo-black-green-square.png?1551729652
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/145/thumb/defhacks-seattle-background-square.png?1551729652
+
+HackHouston
+2019-04-13
+2019-04-14
+Houston
+TX
+http://hackhouston.io/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/140/thumb/tsucs-logo-MLH.png?1551366186
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/140/thumb/houstonsky.png?1551366186
 
 PackHacks
 2019-04-13
@@ -1277,4 +1562,32 @@ Raleigh
 NC
 http://www.ncsupackhacks.org/
 https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/116/thumb/logo.jpg?1549319137
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/116/thumb/packbg.png?1549319137
+
+Rowdyhacks
+2019-04-13
+2019-04-14
+San Antonio
+TX
+https://www.rowdyhacks.org/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/150/thumb/rowdyhackslogo_2019_5.png?1552492980
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/150/thumb/RH_SA_Skyline.png?1552492981
+
+HackPrinceton
+2019-04-20
+2019-04-21
+Princeton
+NJ
+https://hackprinceton.com/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/149/thumb/princetonlogo.jpg?1551985968
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/149/thumb/Princeton_Friend_Library_Square.jpg?1551985968
+
+Citrus Hack
+2019-04-26
+2019-04-28
+Riverside
+CA
+https://www.citrushack.com/
+https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/146/thumb/CH_Icon_REFLCT.png?1551829309
+https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/146/thumb/citrushack_sq.png?1551829309
 
