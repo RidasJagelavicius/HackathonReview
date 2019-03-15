@@ -1,7 +1,10 @@
 <?php
 
+$activated = False;
+
 include 'functions.php';
 
+if($activated){
 $file = fopen('HackathonInfo.txt','r');
 
 
@@ -44,5 +47,6 @@ for ($x = 0; $x < $num_hacks; $x++)
 {
 	$sql = "INSERT INTO Hackathons (Name, State, City, Start, End, siteURL, logoURL, backgroundURL) VALUES ('$name[$x]','$state[$x]','$city[$x]','$start[$x]','$end[$x]','$siteURL[$x]','$logoURL[$x]','$backgroundURL[$x]')";
 	mysqli_query($conn,$sql);
+}
 }
 ?>
