@@ -49,4 +49,7 @@ for ($x = 0; $x < $num_hacks; $x++)
 	mysqli_query($conn,$sql);
 }
 }
+else{
+	die("Script not activated");
+}
 ?>
