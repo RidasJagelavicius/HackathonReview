@@ -1,10 +1,9 @@
 <?php
 
 $activated = False;
+if($activated){
 
 include 'functions.php';
-
-if($activated){
 $file = fopen('HackathonInfo.txt','r');
 
 
