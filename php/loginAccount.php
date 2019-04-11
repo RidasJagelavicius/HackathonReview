@@ -37,7 +37,7 @@ $conn = connectToDatabase();
 	$username = $row['username'];
 
 	
-	if($check)
+	if($check == TRUE)
 	{
 		if($rememberme == TRUE)
 			setcookie("username",$username , time() + 7200); // 48 hours in seconds
