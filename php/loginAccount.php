@@ -48,7 +48,7 @@ include 'functions.php';
 		else
 			$_SESSION['username'] = $username;
 	
-		header("Location:/html/login.html");
+		header("Location:/html/index.html");
 		//echo('Login success!');
 		exit();
 	}
