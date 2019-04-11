@@ -35,13 +35,8 @@ include 'functions.php';
 	$row = mysqli_fetch_assoc($result);
 	$username = $row['username'];
 
+	
 	if($check)
-		$loginok = TRUE;
-	else
-		$loginok = FALSE;
-	
-	
-	if($loginok == TRUE)
 	{
 		if($rememberme == TRUE)
 			setcookie("username",$username , time() + 7200); // 48 hours in seconds
