@@ -29,6 +29,6 @@ function connectToDatabase(){
 	$db = 'HackathonReview';
 	// Create connection to SQL
 	$conn = mysqli_connect($dbhost, $dbuser, $dbpass, $db);
-	return $conn
+	return $conn;
 }
 ?>
