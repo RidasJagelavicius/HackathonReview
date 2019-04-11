@@ -1,6 +1,7 @@
 <?php
 
 include 'functions.php';
+$conn = connectToDatabase();
 
 	if(isset($_POST['email']) && isset($_POST['password']))
 	{
