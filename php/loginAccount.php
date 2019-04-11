@@ -48,9 +48,9 @@ include 'functions.php';
 		else
 			$_SESSION['username'] = $username;
 	
-		//header("Location:/html/login.html");
-		echo('Login success!');
-		//exit();
+		header("Location:/html/login.html");
+		//echo('Login success!');
+		exit();
 	}
 	else
 		die("Incorrect username / password.");
