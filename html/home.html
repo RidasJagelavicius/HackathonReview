@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+<!-- Home Page of Hackathon Review:
+Will have a slideshow of Hackathons, three upcoming North American Hackathons, and recent reviews
+Author: Ridas Jagelavicius -->
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content= "Hackathon Review Home Page, see upcoming hackathons and read user-submitted reviews!">
+  <meta name="keywords" content= "hackathon, rate, review, sort, best hackathon, MLH, home, recent reviews, upcoming hackathons">
+  <meta name="viewport" content= "width=device-width">
+  <meta name = "author" content = "Ridas Jagelavicius, Sean Fisher, Matas Lauzadis">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  <title>Hackathon Review | Home Page</title>
+</head>
+<body>
+  <header>
+    <div class = "container">
+      <div id = "branding">
+        <h1>Hackathon Review</h1>
+      </div>
+      <nav>
+        <ul>
+          <li class = "active"><a href = "../html/home.html">Home</a></li>
+          <li><a href = "../html/reviews.html">Reviews</a></li>
+          <li><a href = "../html/profile.html">Profile</a></li>
+          <li><a href = "../html/login.html">Login</a></li>
+        </ul>
+      </nav>
+      <form action = "../search.php" method = "get">
+        <input type = "text" placeholder = "Search..." name = "userSearch">
+        <button type = "button" value = "Submit"><i class="fas fa-search"></i></button>
+      </form>
+    </div>
+  </header>
+
+  <section>
+  <div class="wrapper">
+      <div class="imageSlideshow">
+        <h2 name = "hackName">Hackathon Name</h2>
+        <a href="#" name = "onClickLeftArrow"><i class="fas fa-angle-left"></i></a>
+        <a href="#" name = "onClickImage"><img src="https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/925/thumb/Planetblack.png?1531247362"></a>
+        <a href="#" name = "onClickRightArrow"><i class="fas fa-angle-right"></i></a>
+        <p name = "hackLocation">Hackathon Location</p>
+        <p name = "hackDate">Hackathon Date</p>
+      </div>
+    <div id="upcomingHacks">
+      <h2>Upcoming Hackathons</h2>
+      <div name = "hackDisplay1" class = "hackDisplay">
+        <div name = "hack1">
+        <img name = "hack1img" src = "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/909/thumb/Hackthe6ixMLHLogo.jpg?1527782042">
+        <p>Name:</p>
+        <p>Date:</p>
+        <p>Location:</p>
+        </div>
+      </div>
+      <div name = "hackDisplay2" class = "hackDisplay">
+        <div name = "hack2">
+        <img name = "hack2img" src = "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/910/thumb/HackMTYLogo-MLH.png?1527782154">
+        <p>Name:</p>
+        <p>Date:</p>
+        <p>Location:</p>
+        </div>
+      </div>
+      <div name = "hackDisplay3" class = "hackDisplay">
+        <div name = "hack3">
+        <img name = "hack3img" src = "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/911/thumb/ByteHacks_Logo.png?1527782234">
+        <p>Name:</p>
+        <p>Date:</p>
+        <p>Location:</p>
+        </div>
+      </div>
+      <div name = "hackDisplay4" class = "hackDisplay">
+        <div name = "hack4">
+        <img name = "hack4img" src = "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/923/thumb/MedHacks_Logo-04.jpg?1530279198">
+        <p>Name:</p>
+        <p>Date:</p>
+        <p>Location:</p>
+        </div>
+      </div>
+      <div name = "hackDisplay5" class = "hackDisplay">
+        <div name = "hack5">
+        <img name = "hack5img" src = "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/932/thumb/logo.jpeg?1532963080">
+        <p>Name:</p>
+        <p>Date:</p>
+        <p>Location:</p>
+        </div>
+      </div>
+      <div name = "hackDisplay6" class = "hackDisplay">
+        <div name = "hack6">
+        <img name = "hack6img" src = "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/929/thumb/logo-final-light.png?1531949145">
+        <p>Name:</p>
+        <p>Date:</p>
+        <p>Location:</p>
+        </div>
+    </div>
+    </div>
+    <div id="recentReviews">
+      <h2>Recent Reviews</h2>
+      <ul>
+        <li name = "review1" class="reviewSummary">
+          <img src = "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=103&_nc_ht=scontent-ort2-1.xx&oh=bb5dca7933311f91e7eb94c4ae4ce2e5&oe=5D6B74E9">
+          <p name="review1User"><strong>User</strong></p>
+          <p>reviewed</p>
+          <p name="review1Hackathon"><strong>Hackathon</strong></p>
+          <p class="summaryP" name="summaryP1">Summary:</p>
+        </li>
+        <li name = "review2" class="reviewSummary">
+          <img src = "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=103&_nc_ht=scontent-ort2-1.xx&oh=bb5dca7933311f91e7eb94c4ae4ce2e5&oe=5D6B74E9">
+          <p name="review2User"><strong>User</strong></p>
+          <p>reviewed</p>
+          <p name="review2Hackathon"><strong>Hackathon</strong></p>
+          <p class="summaryP" name="summaryP2">Summary:</p>
+        </li>
+        <li name = "review3" class="reviewSummary">
+          <img src = "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=103&_nc_ht=scontent-ort2-1.xx&oh=bb5dca7933311f91e7eb94c4ae4ce2e5&oe=5D6B74E9">
+          <p name="review3User"><strong>User</strong></p>
+          <p>reviewed</p>
+          <p name="review3Hackathon"><strong>Hackathon</strong></p>
+          <p class="summaryP" name="summaryP3">Summary:</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </section>
+
+    <footer>
+      <div id = "copyright">
+        <p>HackathonReview.Net - Ridas Jagelavicius, Sean Fisher, Matas Lauzadis - Copyright 2018 &copy;</p>
+      </div>
+      <div id = "obscure-links"> <!-- An area for links people don't commonly seek -->
+        <ul>
+          <li><a href = "../about.html">About Us</a></li>
+          <li><a href = "../contact.html">Contact Us</a></li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>
