@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "utf-8">
+    <meta name = "description" content = "Hackathon Review - Search for, rate, and review Major League Hacking Hackathons - User profile page.">
+    <meta name = "keywords" content = "hackathon, rate, review, sort, best hackathon, MLH, profile">
+    <meta name = "author" content = "Ridas Jagelavicius, Sean Fisher, Matas Lauzadis">
+    <meta name = "viewport" content = "width=device-width">
+    <link rel = "stylesheet" href = "../css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Anonymous+Pro" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> <!-- Imports icons -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  <title>Hackathon Review | Profile Page</title>
+  </head>
+<body>
+  <header>
+    <div class = "container">
+      <div id = "branding">
+        <h1>Hackathon Review</h1>
+      </div>
+      <nav>
+        <ul>
+          <li><a href = "../html/home.html">Home</a></li>
+          <li><a href = "../html/reviews.html">Reviews</a></li>
+          <li class="active"><a href = "../html/profile.html">Profile</a></li>
+          <li><a href = "../html/login.html">Login</a></li>
+        </ul>
+      </nav>
+      <form action = "../search.php" method = "get">
+        <input type = "text" placeholder = "Search..." name = "userSearch">
+        <button type = "button" value = "Submit"><i class="fas fa-search"></i></button>
+      </form>
+    </div>
+  </header>
+  <section>
+    <div class="wrapper-alt">
+      <div id="user-info">
+        <img name="profile-pic"  src="https://robohash.org/mm?set=set5">
+        <h2>RonaldMcDonald</h2>
+        <p><strong>Location:</strong> <span>McDonalds</span></p>
+        <p><strong># of Reviews:</strong> <span>442</span></p>
+        <div id="description">
+          <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+        </div>
+      </div>
+      <div id="user-reviews">
+        <div id="review-flexbox">
+          <div class="profile-review" name="review1">
+            <h3>Hackathon Name</h3>
+            <p>This hackathon was totally rad bro. 10/10 Would attend again.</p>
+          </div>
+          <div class="profile-review" name="review2">
+            <h3>Hackathon Name</h3>
+            <p>This hackathon was totally rad bro. 10/10 Would attend again.</p>
+          </div>
+          <div class="profile-review" name="review3">
+            <h3>Hackathon Name</h3>
+            <p>This hackathon was totally rad bro. 10/10 Would attend again.</p>
+          </div>
+          <div class="profile-review" name="review4">
+            <h3>Hackathon Name</h3>
+            <p>This hackathon was totally rad bro. 10/10 Would attend again.</p>
+          </div>
+          <div class="profile-review" name="review5">
+            <h3>Hackathon Name</h3>
+            <p>This hackathon was totally rad bro. 10/10 Would attend again.</p>
+          </div>
+          <div class="profile-review" name="review6">
+            <h3>Hackathon Name</h3>
+            <p>This hackathon was totally rad bro. 10/10 Would attend again.</p>
+          </div>
+        </div>
+        <div id="load-more-reviews">
+          <a href="#"><p>See all reviews</p></a>
+        </div>
+      </div>
+    </div>
+  </section>
+<footer>
+    <div id = "copyright">
+      <p>HackathonReview.Net - Ridas Jagelavicius, Sean Fisher, Matas Lauzadis - Copyright 2018 &copy;</p>
+    </div>
+    <div id = "obscure-links">
+      <ul>
+        <li><a href = "../html/about.html">About Us</a></li>
+        <li><a href = "../html/contact.html">Contact Us</a></li>
+      </ul>
+  </div>
+</footer>
+</body>
+</html>
